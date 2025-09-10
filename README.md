@@ -52,11 +52,4 @@ Driven by curiosity and a knack for turning complex challenges into elegant solu
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonasem007&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonasem007&layout=compact&theme=radical)  
 
----
-
-## 🎨 Profile Avatar Idea  
-> *Generate a professional yet approachable avatar that subtly hints at a passion for coding and problem-solving. Incorporate abstract geometric shapes, a stylized code snippet, or a clean, minimalist tech-related icon. The username **`leonasem007`** can be subtly embedded as a pattern or hidden detail.*  
-
----
-
 ✨ *Thanks for stopping by! Let's connect, collaborate, and build something amazing together.* 🚀  
