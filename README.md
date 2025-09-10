@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leo Na Semko  
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+my+GitHub) <!-- Replace with your own banner if you want -->
+![Profile Banner](https://placeholder.co/1000x200.png?text=Welcome+to+my+GitHub) <!-- Replace with your own banner if you want -->
 
 ### 💻 About Me  
 Passionate software developer and problem-solver, leveraging **`leonasem007`** as a digital alias to explore the frontiers of code.  
